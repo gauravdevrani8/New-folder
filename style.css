@@ -225,7 +225,7 @@ h1 {
     .main-section {
         padding:30px 30px;
         width: screen;
-        height: 600px;
+        height: 900%;
     }
 
     h1 {
@@ -257,17 +257,13 @@ h1 {
 @media (max-width: 480px) {
     .main-section {
         width: screen;
-        padding:10px 0px;
-        height: fit-content;
+        padding:7px 0px;
+        min-height: 75vh;
     }
     .image-container {
 
 display: none;    }
     
-    .image-container img {
-        width: 570px;
-        height: auto;
-    }
     
     h1 {
         font-size: 34px;
