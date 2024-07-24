@@ -1285,7 +1285,8 @@ display: none;    }
 
 @media (max-width: 480px) {
     .last {
-        padding: 5px 8px;
+        padding:0px 0px;
+        background-color: #222222;
     }
     .secondtext {
         top: 20%; /* Adjust positioning for very small screens */
@@ -1293,7 +1294,9 @@ display: none;    }
         right: 5%;
         padding: 1rem; /* Adjust padding for very small screens */
     }
-
+.image{
+    border-radius: 0;
+}
     .lasttext {
         font-size: 14px; /* Adjust font size for very small screens */
     }
