@@ -1046,7 +1046,7 @@ display: none;    }
         }
     
         .service-item {
-            padding: 15px; /* Adjust padding for small screens */
+            padding: 0px; /* Adjust padding for small screens */
         }
     
         .service-item img {
