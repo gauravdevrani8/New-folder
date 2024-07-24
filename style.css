@@ -270,6 +270,7 @@ display: none;    }
         margin-bottom: 0;
         padding: 0 7px;
         width: screen;
+        margin-right: 30px;
     }
 .content{
     width: screen;
@@ -280,6 +281,7 @@ display: none;    }
         font-size: 12px;
         margin-bottom: 0;
         padding: 0 7px;
+        margin-right: 20px;
     }
 
     .button2 {
